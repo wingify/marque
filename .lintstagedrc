@@ -1,0 +1,4 @@
+{
+  "**/*.js": ["yarn lint", "prettier"],
+  "**/*.{json,md}": "prettier"
+}

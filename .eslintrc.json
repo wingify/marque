@@ -1,0 +1,11 @@
+{
+  "extends": ["standard", "plugin:node/recommended", "plugin:prettier/recommended", "plugin:jsdoc/recommended"],
+  "plugins": ["promise", "prettier", "jsdoc"],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-unused-vars": ["error", { "varsIgnorePattern": "^_" }]
+  },
+  "env": {
+    "node": true
+  }
+}

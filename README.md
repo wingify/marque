@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/wingify/marque/master/marque.png" alt="Marque" style="border-radius: 50%;" width="50" height="50"/> Marque - Tag Versioning Helper
+## <img src="https://raw.githubusercontent.com/wingify/marque/master/marque.png" alt="Marque" width="50" height="50"/> Marque - Tag Versioning Helper
 
 [![npm version](https://badge.fury.io/js/marque.svg)](https://www.npmjs.com/package/marque) [![npm](https://img.shields.io/npm/dt/marque.svg)](https://www.npmjs.com/package/marque)
 

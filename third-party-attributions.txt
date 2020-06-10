@@ -66,15 +66,6 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
-
-* Name: hatchful
-  Published name: hatchful
-  URL: https://hatchful.shopify.com/
-  Description: Create stunning logos in seconds.Introducing Hatchful — our simple logo maker.
-
-Created marque logo using hatchful.
-
-
 ==================================================================
 We use the following third-party libraries for development purpose
 ==================================================================
